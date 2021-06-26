@@ -12,6 +12,8 @@ const (
 	TRUROUTE_INITIAL  = 1
 	TRUROUTE_RESPONSE = 2
 	TRUROUTE_RELEASE  = 3
+
+	DialogussTrurouteMode DialogussModeType = 2
 )
 
 // TruRouteRequest XML struct for the request from a truroute services
